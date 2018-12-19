@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+	color: green;
+}
+h2{
+	padding-top: 2%;
+	color:white;
+	margin-left: 35%;
+	width:100px;
+	
+}
+h2:hover{
+	color:red;
+}
+
+.card{
+	width: 25%;
+	/*height: 100%;*/
+	margin-left:35%;
+}
+.card-img-top{
+	height:400px;
+
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    opacity: 0.9;
+    }
+    .kk{
+    	opacity:0.7;
+    }
+img:hover {
+    transform: scaleX(-1);
+}
+#k{
+	background-color:#31B0D5;
+}
+#k:hover{
+	background-color:pink;
+	color: red;
+}
+#date{
+	float:right;
+	margin-right:20px;
+	margin-top:13px;
+	background-color:white;
+	opacity:0.4;
+
+}

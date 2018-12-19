@@ -1,0 +1,60 @@
+body{
+	background-image:url("DSC_5685-Edit-21.jpg");
+	 background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+html{
+	height: 100%;
+}
+.navbar-light {
+    background-color: #4c4747 !important;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+.navbar-light .navbar-brand:hover {
+ background-color:#ff7f00;
+}
+
+.nav-item .nav-link {
+    color: white;
+    /*padding:40px;*/
+
+}
+ .nav-item .nav-link:hover{
+    background-color:#27f907;
+}
+#k{
+	float:right;
+	margin-top: 5%;
+	margin-right: 3%;
+}
+h1{
+	color: white;
+	
+}
+h1:hover{
+	opacity:1;
+	color:#f9721d;
+}
+h4{
+ color:orange;
+ margin-left:100px;
+}
+img{
+	 width:50%;
+	 height: 70%;
+	 padding-left:10%;
+	 padding-right: 10%;
+	 padding-top:2%;
+	 padding-bottom:2%;
+	 margin-left:-5%;
+	 opacity:0.6;
+}
+img:hover{
+
+	opacity: 1;
+}

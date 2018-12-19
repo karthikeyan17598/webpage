@@ -1,0 +1,32 @@
+body{
+	background-image:url("freestocks-org-683816-unsplash.jpg");
+	 background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+/*html{
+	height: 100%;
+}*/
+.navbar-light {
+    background-color: #4c4747 !important;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+.navbar-light .navbar-brand:hover {
+ background-color:#ff7f00;
+}
+
+.nav-item .nav-link {
+    color: white;
+    /*padding:40px;*/
+
+}
+ .nav-item .nav-link:hover{
+    background-color:#27f907;
+}
+#fb{
+    size:2px;
+}
